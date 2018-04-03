@@ -1,0 +1,12 @@
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\bin\Debug\01串口基本应用开发.exe.config
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\bin\Debug\01串口基本应用开发.exe
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\bin\Debug\01串口基本应用开发.pdb
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\01串口基本应用开发.csprojResolveAssemblyReference.cache
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\_01串口基本应用开发.Form1.resources
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\_01串口基本应用开发.Properties.Resources.resources
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\01串口基本应用开发.csproj.GenerateResource.Cache
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\01串口基本应用开发.exe
+E:\VS2012Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\01串口基本应用开发.pdb
+E:\visual studio 2015\Projects\新大陆_智慧城市\01串口基本应用开发\bin\Debug\01串口基本应用开发.exe.config
+E:\visual studio 2015\Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\01串口基本应用开发.exe
+E:\visual studio 2015\Projects\新大陆_智慧城市\01串口基本应用开发\obj\Debug\01串口基本应用开发.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="ToolBar.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToolBar"
+        mc:Ignorable="d"
+        Title="关于" Height="300" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox x:Name="txtTest" HorizontalAlignment="Left" Height="23" Margin="36,51,0,0" TextWrapping="Wrap" Text="我的对话框" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

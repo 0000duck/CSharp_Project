@@ -1,0 +1,6 @@
+F:\C#\项目\信息员与艺术设计系信息管理系统\05、泛型委托\bin\Debug\05、泛型委托.exe.config
+F:\C#\项目\信息员与艺术设计系信息管理系统\05、泛型委托\bin\Debug\05、泛型委托.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\05、泛型委托\bin\Debug\05、泛型委托.pdb
+F:\C#\项目\信息员与艺术设计系信息管理系统\05、泛型委托\obj\Debug\05、泛型委托.csprojResolveAssemblyReference.cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\05、泛型委托\obj\Debug\05、泛型委托.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\05、泛型委托\obj\Debug\05、泛型委托.pdb

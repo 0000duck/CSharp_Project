@@ -1,0 +1,83 @@
+﻿<Window x:Class="计算器.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:计算器"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="385.252" Width="270.683">
+    <Grid>
+        <Grid>
+            <Menu HorizontalAlignment="Stretch" VerticalAlignment="Top" FontSize="13">
+                <MenuItem Header="查看(V)"></MenuItem>
+                <MenuItem Header="编辑(E)"></MenuItem>
+                <MenuItem Header="帮助(H)"></MenuItem>
+            </Menu>
+            <TextBox VerticalAlignment="Top" HorizontalAlignment="Stretch" Margin="10,30,10,10" Height="45" BorderBrush="#6CA6CD"></TextBox>
+            <Grid Margin="10,80,10,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <!--<Button Content="MC" Margin="4" Grid.Column="0"></Button>-->
+                <Button Content="MC" Width="40" Height="30" Grid.Column="0"></Button>
+                <Button Content="MR" Width="40" Height="30" Grid.Column="1"></Button>
+                <Button Content="MS" Width="40" Height="30" Grid.Column="2"></Button>
+                <Button Content="M+" Width="40" Height="30" Grid.Column="3"></Button>
+                <Button Content="M-" Width="40" Height="30" Grid.Column="4"></Button>
+
+                <Button Content="←" Width="40" Height="30" Grid.Row="1" ></Button>
+                <Button Content="CE" Width="40" Height="30" Grid.Row="1" Grid.Column="1"></Button>
+                <Button Content="C"  Width="40" Height="30" Grid.Row="1" Grid.Column="2"></Button>
+                
+                <Grid Grid.Row="1" Grid.Column="3" Width="40" Height="30">
+                    <Button>
+                        <Button.Content>
+                            <StackPanel>
+                                <Label Content="-" Margin="2,2,0,0" Height="20"></Label>
+                                <Label Content="+" Margin="0,-28,0,0" Height="20" ></Label>
+                            </StackPanel>
+                        </Button.Content>
+                    </Button>
+                </Grid>
+
+                <Button Content="√" Width="40" Height="30" Grid.Row="1" Grid.Column="4"></Button>
+                <Button Content="7" Width="40" Height="30" Grid.Row="2" Grid.Column="0"></Button>
+                <Button Content="8" Width="40" Height="30" Grid.Row="2" Grid.Column="1"></Button>
+                <Button Content="9" Width="40" Height="30" Grid.Row="2" Grid.Column="2"></Button>
+                <Button Content="/" Width="40" Height="30" Grid.Row="2" Grid.Column="3"></Button>
+                <Button Content="%" Width="40" Height="30" Grid.Row="2" Grid.Column="4"></Button>
+
+                <Button Content="4" Width="40" Height="30" Grid.Row="3" Grid.Column="0"></Button>
+                <Button Content="5" Width="40" Height="30" Grid.Row="3" Grid.Column="1"></Button>
+                <Button Content="6" Width="40" Height="30" Grid.Row="3" Grid.Column="2"></Button>
+                <Button Content="*" Width="40" Height="30" Grid.Row="3" Grid.Column="3"></Button>
+                <Button Content="1/x" Width="40" Height="30" Grid.Row="3" Grid.Column="4"></Button>
+
+                <Button Content="1" Width="40" Height="30" Grid.Row="4" Grid.Column="0"></Button>
+                <Button Content="2" Width="40" Height="30" Grid.Row="4" Grid.Column="1"></Button>
+                <Button Content="3" Width="40" Height="30" Grid.Row="4" Grid.Column="2"></Button>
+                <Button Content="-" Width="40" Height="30" Grid.Row="4" Grid.Column="3"></Button>
+
+                <Button Content="0" Width="90" Height="30" Grid.Row="5" Grid.ColumnSpan="2"></Button>
+                <Button Content="." Width="40" Height="30" Grid.Row="5" Grid.Column="2"></Button>
+                <Button Content="+" Width="40" Height="30" Grid.Row="5" Grid.Column="3"></Button>
+                <Button Content="=" Width="40" Height="75" Grid.Row="4" Grid.Column="5" Grid.RowSpan="2"></Button>
+                
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

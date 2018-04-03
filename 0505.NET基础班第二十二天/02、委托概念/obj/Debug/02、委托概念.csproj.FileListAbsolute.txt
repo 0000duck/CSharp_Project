@@ -1,0 +1,11 @@
+F:\C#\项目\信息员与艺术设计系信息管理系统\02\bin\Debug\02.exe.config
+F:\C#\项目\信息员与艺术设计系信息管理系统\02\bin\Debug\02.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\02\bin\Debug\02.pdb
+F:\C#\项目\信息员与艺术设计系信息管理系统\02\obj\Debug\02.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\02\obj\Debug\02.pdb
+E:\VS_Projects\0505.NET基础班第二十二天\02、委托概念\bin\Debug\02.exe.config
+E:\VS_Projects\0505.NET基础班第二十二天\02、委托概念\obj\Debug\02.exe
+E:\VS_Projects\0505.NET基础班第二十二天\02、委托概念\obj\Debug\02.pdb
+E:\VS_Projects\0505.NET基础班第二十二天\02、委托概念\bin\Debug\02.exe
+E:\VS_Projects\0505.NET基础班第二十二天\02、委托概念\bin\Debug\02.pdb
+E:\VS_Projects\0505.NET基础班第二十二天\02、委托概念\obj\Debug\02、委托概念.csprojResolveAssemblyReference.cache

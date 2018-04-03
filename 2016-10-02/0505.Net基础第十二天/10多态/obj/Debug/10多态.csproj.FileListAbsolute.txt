@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\10多态\bin\Debug\10多态.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\10多态\bin\Debug\10多态.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\10多态\obj\Debug\10多态.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\10多态\obj\Debug\10多态.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\10多态\obj\Debug\10多态.pdb

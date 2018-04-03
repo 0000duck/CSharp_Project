@@ -1,0 +1,13 @@
+E:\visual studio 2015\Projects\2016-09-15\登录\bin\Debug\登录.exe
+E:\visual studio 2015\Projects\2016-09-15\登录\bin\Debug\登录.pdb
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录.g.resources
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录.exe
+E:\visual studio 2015\Projects\2016-09-15\登录\obj\Debug\登录.pdb

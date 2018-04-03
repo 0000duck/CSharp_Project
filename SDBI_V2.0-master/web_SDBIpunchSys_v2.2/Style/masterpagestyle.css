@@ -1,0 +1,43 @@
+﻿
+*{
+    margin:0px;
+    border:0px;
+    padding:0px;
+}
+#mian{
+    width:1024px;
+    height:768px;
+   
+}
+#top{
+    width:1024px;
+    height:100px;
+}
+
+
+
+#content{
+    width:1024px;
+    height:568px;
+       
+}
+#left{
+    width:20%;
+    height:100%;
+    float:left;
+}
+#right{
+    width:80%;
+    height:100%;
+    float:left;
+}
+#foot{
+    width:1024px;
+    height:100px;
+    
+}
+.append{
+    width:100%;
+    height:100px;
+}
+

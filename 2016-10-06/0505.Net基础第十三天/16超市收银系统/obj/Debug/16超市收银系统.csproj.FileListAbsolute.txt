@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\16超市收银系统\bin\Debug\16超市收银系统.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\16超市收银系统\bin\Debug\16超市收银系统.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\16超市收银系统\obj\Debug\16超市收银系统.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\16超市收银系统\obj\Debug\16超市收银系统.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\16超市收银系统\obj\Debug\16超市收银系统.pdb

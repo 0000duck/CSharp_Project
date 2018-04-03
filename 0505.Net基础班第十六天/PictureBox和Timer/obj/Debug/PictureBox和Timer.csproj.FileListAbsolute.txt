@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\bin\Debug\PictureBox和Timer.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\bin\Debug\PictureBox和Timer.pdb
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\obj\Debug\PictureBox和Timer.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\obj\Debug\PictureBox和Timer.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\obj\Debug\PictureBox和Timer.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\obj\Debug\PictureBox和Timer.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\obj\Debug\PictureBox和Timer.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\PictureBox和Timer\obj\Debug\PictureBox和Timer.pdb

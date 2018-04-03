@@ -1,0 +1,7 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\bin\Debug\09PictureBox.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\bin\Debug\09PictureBox.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\obj\Debug\_09PictureBox.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\obj\Debug\_09PictureBox.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\obj\Debug\09PictureBox.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\obj\Debug\09PictureBox.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\09PictureBox\obj\Debug\09PictureBox.pdb

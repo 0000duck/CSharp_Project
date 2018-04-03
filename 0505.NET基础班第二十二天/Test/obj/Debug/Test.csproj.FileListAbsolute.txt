@@ -1,0 +1,10 @@
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\bin\Debug\Test.exe.config
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.Form1.resources
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.Form2.resources
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.Properties.Resources.resources
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\bin\Debug\Test.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\bin\Debug\Test.pdb
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\Test\obj\Debug\Test.pdb

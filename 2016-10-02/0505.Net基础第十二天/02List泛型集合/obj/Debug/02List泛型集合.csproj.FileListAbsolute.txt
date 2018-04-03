@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\02List泛型集合\bin\Debug\02List泛型集合.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\02List泛型集合\bin\Debug\02List泛型集合.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\02List泛型集合\obj\Debug\02List泛型集合.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\02List泛型集合\obj\Debug\02List泛型集合.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\02List泛型集合\obj\Debug\02List泛型集合.pdb

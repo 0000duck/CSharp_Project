@@ -1,0 +1,17 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\bin\Debug\08MDI窗体设计.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\bin\Debug\08MDI窗体设计.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Form4.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.exe
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\bin\Debug\08MDI窗体设计.exe
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\bin\Debug\08MDI窗体设计.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.csprojResolveAssemblyReference.cache
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Form1.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Form4.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\_08MDI窗体设计.Properties.Resources.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\08MDI窗体设计\obj\Debug\08MDI窗体设计.csproj.GenerateResource.Cache

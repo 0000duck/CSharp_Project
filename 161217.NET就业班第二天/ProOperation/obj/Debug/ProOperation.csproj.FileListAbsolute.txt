@@ -1,0 +1,5 @@
+E:\VS_Projects\161217.NET就业班第二天\ProOperation\bin\Debug\ProOperation.dll
+E:\VS_Projects\161217.NET就业班第二天\ProOperation\bin\Debug\ProOperation.pdb
+E:\VS_Projects\161217.NET就业班第二天\ProOperation\obj\Debug\ProOperation.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161217.NET就业班第二天\ProOperation\obj\Debug\ProOperation.dll
+E:\VS_Projects\161217.NET就业班第二天\ProOperation\obj\Debug\ProOperation.pdb

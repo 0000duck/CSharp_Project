@@ -1,0 +1,13 @@
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\bin\Debug\布局的嵌套.exe
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\bin\Debug\布局的嵌套.pdb
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套.g.resources
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套.exe
+E:\visual studio 2015\Projects\2016-09-16\布局的嵌套\obj\Debug\布局的嵌套.pdb

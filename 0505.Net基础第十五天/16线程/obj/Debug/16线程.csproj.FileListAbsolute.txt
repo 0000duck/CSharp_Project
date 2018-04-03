@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\bin\Debug\16线程.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\bin\Debug\16线程.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\obj\Debug\16线程.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\obj\Debug\_16线程.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\obj\Debug\_16线程.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\obj\Debug\16线程.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\obj\Debug\16线程.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\16线程\obj\Debug\16线程.pdb

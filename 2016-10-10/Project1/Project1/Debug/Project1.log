@@ -1,0 +1,10 @@
+﻿  Demo.c
+e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(22): warning C4013: “system”未定义；假设外部返回 int
+e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(7): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+  e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(7): note: 请考虑在格式字符串中使用“%lf”
+e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(9): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double *”
+  e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(9): note: 请考虑在格式字符串中使用“%lf”
+e:\visual studio 2015\projects\2016-10-10\project1\project1\demo.c(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明

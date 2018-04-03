@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\02枚举\bin\Debug\02枚举.exe
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\02枚举\bin\Debug\02枚举.pdb
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\02枚举\obj\Debug\02枚举.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\02枚举\obj\Debug\02枚举.exe
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\02枚举\obj\Debug\02枚举.pdb

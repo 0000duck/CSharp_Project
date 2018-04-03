@@ -1,0 +1,6 @@
+F:\C#\项目\信息员与艺术设计系信息管理系统\06、lamda表达式\bin\Debug\06、lamda表达式.exe.config
+F:\C#\项目\信息员与艺术设计系信息管理系统\06、lamda表达式\bin\Debug\06、lamda表达式.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\06、lamda表达式\bin\Debug\06、lamda表达式.pdb
+F:\C#\项目\信息员与艺术设计系信息管理系统\06、lamda表达式\obj\Debug\06、lamda表达式.csprojResolveAssemblyReference.cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\06、lamda表达式\obj\Debug\06、lamda表达式.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\06、lamda表达式\obj\Debug\06、lamda表达式.pdb

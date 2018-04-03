@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-26\0505.Net基础第七天\09自己动手写tryparse\bin\Debug\09自己动手写tryparse.exe
+E:\visual studio 2015\Projects\2016-09-26\0505.Net基础第七天\09自己动手写tryparse\bin\Debug\09自己动手写tryparse.pdb
+E:\visual studio 2015\Projects\2016-09-26\0505.Net基础第七天\09自己动手写tryparse\obj\Debug\09自己动手写tryparse.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-26\0505.Net基础第七天\09自己动手写tryparse\obj\Debug\09自己动手写tryparse.exe
+E:\visual studio 2015\Projects\2016-09-26\0505.Net基础第七天\09自己动手写tryparse\obj\Debug\09自己动手写tryparse.pdb

@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\04值类型和引用类型\bin\Debug\04值类型和引用类型.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\04值类型和引用类型\bin\Debug\04值类型和引用类型.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\04值类型和引用类型\obj\Debug\04值类型和引用类型.pdb

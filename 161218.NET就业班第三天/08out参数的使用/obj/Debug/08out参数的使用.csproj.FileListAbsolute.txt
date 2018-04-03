@@ -1,0 +1,6 @@
+E:\VS_Projects\161218.Net就业班第三天\08out参数的使用\bin\Debug\08out参数的使用.exe.config
+E:\VS_Projects\161218.Net就业班第三天\08out参数的使用\bin\Debug\08out参数的使用.exe
+E:\VS_Projects\161218.Net就业班第三天\08out参数的使用\bin\Debug\08out参数的使用.pdb
+E:\VS_Projects\161218.Net就业班第三天\08out参数的使用\obj\Debug\08out参数的使用.exe
+E:\VS_Projects\161218.Net就业班第三天\08out参数的使用\obj\Debug\08out参数的使用.pdb
+E:\VS_Projects\161218.Net就业班第三天\08out参数的使用\obj\Debug\08out参数的使用.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\bin\Debug\15Demo01.exe.config
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\bin\Debug\15Demo01.exe
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\bin\Debug\15Demo01.pdb
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\obj\Debug\15Demo01.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\obj\Debug\_15Demo01.Form1.resources
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\obj\Debug\_15Demo01.Properties.Resources.resources
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\obj\Debug\15Demo01.csproj.GenerateResource.Cache
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\obj\Debug\15Demo01.exe
+E:\VS_Projects\161218.Net就业班第三天\15Demo01\obj\Debug\15Demo01.pdb

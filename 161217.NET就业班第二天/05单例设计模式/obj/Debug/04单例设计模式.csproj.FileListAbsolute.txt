@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\bin\Debug\04单例设计模式.exe
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\bin\Debug\04单例设计模式.pdb
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\04单例设计模式.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\_04单例设计模式.Form1.resources
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\_04单例设计模式.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\04单例设计模式.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\04单例设计模式.exe
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\04单例设计模式.pdb
+C:\Users\SpringRain\Desktop\0413.Net就业班第二天\04单例设计模式\obj\Debug\_04单例设计模式.Form2.resources

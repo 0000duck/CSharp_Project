@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\05StringBuilder\bin\Debug\05StringBuilder.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\05StringBuilder\bin\Debug\05StringBuilder.pdb
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\05StringBuilder\obj\Debug\05StringBuilder.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\05StringBuilder\obj\Debug\05StringBuilder.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\05StringBuilder\obj\Debug\05StringBuilder.pdb

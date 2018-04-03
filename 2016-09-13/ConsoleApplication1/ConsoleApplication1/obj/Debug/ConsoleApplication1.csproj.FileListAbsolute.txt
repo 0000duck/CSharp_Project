@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\visual studio 2015\Projects\2016-09-13\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\visual studio 2015\Projects\2016-09-13\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-13\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\visual studio 2015\Projects\2016-09-13\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

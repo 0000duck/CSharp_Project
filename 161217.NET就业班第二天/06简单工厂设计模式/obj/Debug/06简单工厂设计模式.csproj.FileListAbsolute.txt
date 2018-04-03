@@ -1,0 +1,6 @@
+E:\VS_Projects\161217.NET就业班第二天\06简单工厂设计模式\bin\Debug\06简单工厂设计模式.exe.config
+E:\VS_Projects\161217.NET就业班第二天\06简单工厂设计模式\bin\Debug\06简单工厂设计模式.exe
+E:\VS_Projects\161217.NET就业班第二天\06简单工厂设计模式\bin\Debug\06简单工厂设计模式.pdb
+E:\VS_Projects\161217.NET就业班第二天\06简单工厂设计模式\obj\Debug\06简单工厂设计模式.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161217.NET就业班第二天\06简单工厂设计模式\obj\Debug\06简单工厂设计模式.exe
+E:\VS_Projects\161217.NET就业班第二天\06简单工厂设计模式\obj\Debug\06简单工厂设计模式.pdb

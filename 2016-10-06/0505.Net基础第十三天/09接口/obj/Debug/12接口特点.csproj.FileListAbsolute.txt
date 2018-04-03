@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\09接口\bin\Debug\09接口.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\09接口\bin\Debug\09接口.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\09接口\obj\Debug\12接口特点.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\09接口\obj\Debug\09接口.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\09接口\obj\Debug\09接口.pdb

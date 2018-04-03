@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\10、GetSum\bin\Debug\10、GetSum.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\10、GetSum\bin\Debug\10、GetSum.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\10、GetSum\obj\Debug\10、GetSum.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\10、GetSum\obj\Debug\10、GetSum.pdb

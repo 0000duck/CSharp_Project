@@ -1,0 +1,14 @@
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.exe
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\bin\Debug\WpfApplication2.pdb
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\MainWindow.g.cs
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\App.g.cs
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\MainWindow.baml
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.exe
+E:\VS_Projects\传智播客第三季wpf\XAML布局：StackPanel、Grid、生成连连看游戏布局\WpfApplication1\WpfApplication2\obj\Debug\WpfApplication2.pdb

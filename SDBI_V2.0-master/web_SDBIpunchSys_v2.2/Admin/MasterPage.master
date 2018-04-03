@@ -1,0 +1,143 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="Admin_MasterPage" %>
+
+<!doctype html>
+<html lang="en">
+    
+<head>
+	<meta charset="utf-8"/>
+	<title>山东商务职业学院学生考勤系统</title>
+	
+	<link rel="stylesheet" href="../Style/layout.css" type="text/css" media="screen" />
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="../Script/jquery-1.5.2.min.js" type="text/javascript"></script>
+	<script src="../Script/hideshow.js" type="text/javascript"></script>
+	<script src="../Script/jquery.tablesorter.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="../Script/jquery.equalHeight.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() 
+    	{ 
+      	  $(".tablesorter").tablesorter(); 
+   	 } 
+	);
+	$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+    </script>
+    <script type="text/javascript">
+    $(function(){
+        $('.column').equalHeight();
+    });
+</script>
+
+</head>
+
+
+<body>
+    <form id="form2" runat="server">
+	<header id="header">
+		<hgroup>
+			<h1 class="site_title"><a href="index.html">LOGO</a></h1>
+			<h2 class="section_title">考勤管理系统</h2>
+            <div class="btn_view_site"><a href="../Index/login.aspx">退出</a></div>
+		</hgroup>
+	</header>	
+	<section id="secondary_bar">
+		<div class="user">
+			<p>
+                <asp:Label ID="Label2" runat="server" Text="权限"></asp:Label>:&nbsp;
+                <asp:Label ID="Label1" runat="server" Text="姓名"></asp:Label>
+                (<asp:HyperLink ID="HyperLink1" runat="server" Text="N条消息" ForeColor="#6699FF"></asp:HyperLink>)
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:Label ID="Label3" runat="server" Text="当前第N周"></asp:Label>
+			</p>			
+		</div>
+	</section>
+	
+	<aside id="sidebar" class="column">
+		
+		<hr/>
+		<h3>管理员信息</h3>
+		<ul class="toggle">
+			<li class="icn_tags"><a href="../Admin/TeacherList.aspx">本校教师</a></li>
+			<li class="icn_tags"><a href="../Admin/OtherTeacherList.aspx">外聘教师</a></li>
+			<li class="icn_tags"><a href="../Admin/addUser.aspx">新增用户</a></li>
+			<li class="icn_tags"><a href="changePassWord.aspx">修改密码</a></li>
+            <li class="icn_tags"><a href="../Admin/notify.aspx">发布通知</a></li>
+		</ul>
+		<h3>数据管理</h3>
+		<ul class="toggle">
+			<li class="icn_tags"><a href="../Admin/ContentPage.aspx">导入数据</a></li>
+			
+			<li class="icn_tags"><a href="cleanData.aspx">清空数据</a></li>
+            <li class="icn_tags"><a href="#">导出数据</a></li>
+		</ul>
+		<h3>异动处理</h3>
+		<ul class="toggle">
+			<li class="icn_tags"><a href="StuStatus.aspx">学生情况</a></li><!--正确-->
+            <li class="icn_tags"><a href="TeacherStatus.aspx">教师情况</a></li><!--正确-->
+            <li class="icn_tags"><a href="HomeWorkStatus.aspx">作业情况</a></li><!--正确-->
+		</ul>
+		<h3>数据分析</h3>
+		<ul class="toggle">
+			<li class="icn_tags"><a href="PunchAnalyze.aspx">考勤分析</a></li>
+            <!--正确<li class="icn_tags"><a href="#">作业分析</a></li>-->
+            <li class="icn_tags"><a href="unPunchList.aspx">漏报分析</a></li>
+            <li class="icn_tags"><a href="showStuUnpunchList.aspx">缺勤汇总</a></li>
+            <!--正确<li class="icn_tags"><a href="#">作业统计</a></li>-->
+		</ul>
+		
+		<footer>
+			<hr />
+			<p><strong>Copyright &copy; 2017 16物联网班</strong></p>
+			
+		</footer>
+	</aside>
+	
+	<section id="main" class="column">
+		
+		<article class="module width_3_quarter">
+		<header><h3 class="tabs_involved">
+            &nbsp;
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+            </h3>
+		    
+		</header>
+
+		 <div style="overflow: auto; width:100%;height:500px">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+            
+        </asp:ContentPlaceHolder>
+             </div>
+		
+		</article>	
+		<div class="clear"></div>
+	  <div class="spacer"></div>
+	</section>
+
+</form>
+    
+</body>
+
+</html>

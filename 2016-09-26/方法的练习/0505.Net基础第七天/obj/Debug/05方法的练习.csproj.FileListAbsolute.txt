@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-26\方法的练习\0505.Net基础第七天\bin\Debug\0505.Net基础第七天.exe
+E:\visual studio 2015\Projects\2016-09-26\方法的练习\0505.Net基础第七天\bin\Debug\0505.Net基础第七天.pdb
+E:\visual studio 2015\Projects\2016-09-26\方法的练习\0505.Net基础第七天\obj\Debug\05方法的练习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-26\方法的练习\0505.Net基础第七天\obj\Debug\0505.Net基础第七天.exe
+E:\visual studio 2015\Projects\2016-09-26\方法的练习\0505.Net基础第七天\obj\Debug\0505.Net基础第七天.pdb

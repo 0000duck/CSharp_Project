@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\01、复习\obj\Debug\01、复习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\01、复习\bin\Debug\01、复习.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\01、复习\bin\Debug\01、复习.pdb
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\01、复习\obj\Debug\01、复习.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\01、复习\obj\Debug\01、复习.pdb

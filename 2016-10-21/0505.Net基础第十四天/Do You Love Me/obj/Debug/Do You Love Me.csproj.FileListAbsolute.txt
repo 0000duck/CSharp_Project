@@ -1,0 +1,13 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\bin\Debug\Do You Love Me.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\bin\Debug\Do You Love Me.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me.g.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do_You_Love_Me.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me\obj\Debug\Do You Love Me.pdb

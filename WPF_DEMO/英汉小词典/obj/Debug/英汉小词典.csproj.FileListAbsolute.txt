@@ -1,0 +1,14 @@
+E:\VS_Projects\WPF_DEMO\英汉小词典\bin\Debug\英汉小词典.exe.config
+E:\VS_Projects\WPF_DEMO\英汉小词典\bin\Debug\英汉小词典.exe
+E:\VS_Projects\WPF_DEMO\英汉小词典\bin\Debug\英汉小词典.pdb
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典.csprojResolveAssemblyReference.cache
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\MainWindow.g.cs
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\App.g.cs
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典_MarkupCompile.cache
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典_MarkupCompile.lref
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\MainWindow.baml
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典.g.resources
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典.Properties.Resources.resources
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典.csproj.GenerateResource.Cache
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典.exe
+E:\VS_Projects\WPF_DEMO\英汉小词典\obj\Debug\英汉小词典.pdb

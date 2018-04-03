@@ -1,0 +1,85 @@
+use MySchool
+
+create table tab_User
+(
+UserId int not null primary key,
+UserName nvarchar(50),
+Password nvarchar(50)
+)
+
+create table tab_StudentMsg
+(
+StudentNo int not null primary key,
+StudentName varchar(12),
+Sex nchar(1),
+Birthday datetime,
+Department nvarchar(50),
+Speciality nvarchar(50),--专业
+Hobby nvarchar(200)
+)
+
+create table tab_Course
+(
+CourseId int primary key,
+CourseName nvarchar(50) not null,
+CourseClass nvarchar(50),
+Required bit,
+Credit int,
+PrelectionCredit int,--理论学时
+ExperimentCredit int
+)
+
+create table tab_ScoreMsg
+(
+Student int,
+CourseId int,
+Score int,
+primary key(Student,CourseId)
+)
+
+select *from tab_StudentMsguse MySchool
+
+create table tab_User
+(
+UserId int not null primary key,
+UserName nvarchar(50),
+Password nvarchar(50)
+)
+
+create table tab_StudentMsg
+(
+StudentNo int not null primary key,
+StudentName varchar(12),
+Sex nchar(1),
+Birthday datetime,
+Department nvarchar(50),
+Speciality nvarchar(50),--专业
+Hobby nvarchar(200)
+)
+
+create table tab_Course
+(
+CourseId int primary key,
+CourseName nvarchar(50) not null,
+CourseClass nvarchar(50),
+Required bit,
+Credit int,
+PrelectionCredit int,--理论学时
+ExperimentCredit int
+)
+
+create table tab_ScoreMsg
+(
+Student int,
+CourseId int,
+Score int,
+primary key(Student,CourseId)
+)
+
+select *from tab_StudentMsg
+
+
+select count(*) from [tab_User] where UserName='{0}' and Password='{1}'
+select *from tab_User
+
+delete from tab_User where UserId='4'-- and UserName='NULL' and Password='NULL'

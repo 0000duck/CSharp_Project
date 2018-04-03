@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-24\0505.Net基础第三天\03类型装换\bin\Debug\03类型装换.exe
+E:\visual studio 2015\Projects\2016-09-24\0505.Net基础第三天\03类型装换\bin\Debug\03类型装换.pdb
+E:\visual studio 2015\Projects\2016-09-24\0505.Net基础第三天\03类型装换\obj\Debug\03类型装换.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-24\0505.Net基础第三天\03类型装换\obj\Debug\03类型装换.exe
+E:\visual studio 2015\Projects\2016-09-24\0505.Net基础第三天\03类型装换\obj\Debug\03类型装换.pdb

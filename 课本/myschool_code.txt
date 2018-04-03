@@ -1,0 +1,42 @@
+
+--drop table xxx
+
+create table tab_User
+(
+UserId int primary key not null,
+UserName nvarchar(50),
+Password nvarchar(50)
+
+)
+select *from tab_User
+exec sp_help tab_User
+
+create table tab_StudentMsg
+(
+StudentNo int primary key not null,
+StudentName varchar(12),
+Sex nchar(1),
+Birthday datetime,
+Department nvarchar(50),
+Speciality nvarchar(50),
+Hobby nvarchar(200)
+)
+
+create table tab_CourseMsg
+(
+CourseId int primary key not null,
+CourseName nvarchar(50) not null,
+CourseClass nvarchar(50),
+Required bit,
+Credit int,
+PrelectionCredit int,
+ExperimentCredit int
+)
+
+create table tab_ScoreMsg
+(
+StudentNo int,
+CourseId int,
+Score int
+primary key(StudentNo,CourseId) --学号，课程编号同时设置为主键
+)

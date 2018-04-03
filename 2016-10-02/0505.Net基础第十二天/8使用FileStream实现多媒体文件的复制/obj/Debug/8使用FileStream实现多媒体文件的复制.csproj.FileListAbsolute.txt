@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\8使用FileStream实现多媒体文件的复制\bin\Debug\8使用FileStream实现多媒体文件的复制.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\8使用FileStream实现多媒体文件的复制\bin\Debug\8使用FileStream实现多媒体文件的复制.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\8使用FileStream实现多媒体文件的复制\obj\Debug\8使用FileStream实现多媒体文件的复制.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\8使用FileStream实现多媒体文件的复制\obj\Debug\8使用FileStream实现多媒体文件的复制.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\8使用FileStream实现多媒体文件的复制\obj\Debug\8使用FileStream实现多媒体文件的复制.pdb

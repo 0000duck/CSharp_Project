@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-23\练习\练习\bin\Debug\练习.exe
+E:\visual studio 2015\Projects\2016-09-23\练习\练习\bin\Debug\练习.pdb
+E:\visual studio 2015\Projects\2016-09-23\练习\练习\obj\Debug\练习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-23\练习\练习\obj\Debug\练习.exe
+E:\visual studio 2015\Projects\2016-09-23\练习\练习\obj\Debug\练习.pdb

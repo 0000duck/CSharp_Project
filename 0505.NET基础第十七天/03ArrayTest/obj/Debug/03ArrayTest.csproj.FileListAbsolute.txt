@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\03ArrayTest\bin\Debug\03ArrayTest.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\03ArrayTest\bin\Debug\03ArrayTest.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\03ArrayTest\obj\Debug\03ArrayTest.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\03ArrayTest\obj\Debug\03ArrayTest.pdb

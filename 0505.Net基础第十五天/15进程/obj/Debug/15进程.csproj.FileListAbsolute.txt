@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\15进程\bin\Debug\15进程.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\15进程\bin\Debug\15进程.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\15进程\obj\Debug\15进程.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\15进程\obj\Debug\15进程.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\15进程\obj\Debug\15进程.pdb

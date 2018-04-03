@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\11、JudgePrime\bin\Debug\11、JudgePrime.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\11、JudgePrime\bin\Debug\11、JudgePrime.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\11、JudgePrime\obj\Debug\11、JudgePrime.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\11、JudgePrime\obj\Debug\11、JudgePrime.pdb

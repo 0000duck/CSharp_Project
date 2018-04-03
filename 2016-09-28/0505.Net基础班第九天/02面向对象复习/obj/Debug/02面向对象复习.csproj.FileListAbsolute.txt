@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\02面向对象复习\bin\Debug\02面向对象复习.exe
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\02面向对象复习\bin\Debug\02面向对象复习.pdb
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\02面向对象复习\obj\Debug\02面向对象复习.exe
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\02面向对象复习\obj\Debug\02面向对象复习.pdb
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\02面向对象复习\obj\Debug\02面向对象复习.csprojResolveAssemblyReference.cache

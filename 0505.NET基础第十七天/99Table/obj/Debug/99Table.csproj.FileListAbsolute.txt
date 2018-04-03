@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\99Table\bin\Debug\99Table.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\99Table\bin\Debug\99Table.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\99Table\obj\Debug\99Table.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.NET基础第十七天\99Table\obj\Debug\99Table.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\99Table\obj\Debug\99Table.pdb

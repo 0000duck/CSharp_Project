@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\06、ExchangeTest\bin\Debug\06、ExchangeTest.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\06、ExchangeTest\bin\Debug\06、ExchangeTest.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\06、ExchangeTest\obj\Debug\06、ExchangeTest.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\06、ExchangeTest\obj\Debug\06、ExchangeTest.pdb

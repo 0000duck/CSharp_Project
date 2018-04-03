@@ -1,0 +1,7 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\bin\Debug\04Timer.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\bin\Debug\04Timer.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\obj\Debug\_04Timer.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\obj\Debug\_04Timer.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\obj\Debug\04Timer.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\obj\Debug\04Timer.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\04Timer\obj\Debug\04Timer.pdb

@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\09StreamReader和StreamWriter\bin\Debug\09StreamReader和StreamWriter.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\09StreamReader和StreamWriter\bin\Debug\09StreamReader和StreamWriter.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\09StreamReader和StreamWriter\obj\Debug\09StreamReader和StreamWriter.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\09StreamReader和StreamWriter\obj\Debug\09StreamReader和StreamWriter.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\09StreamReader和StreamWriter\obj\Debug\09StreamReader和StreamWriter.pdb

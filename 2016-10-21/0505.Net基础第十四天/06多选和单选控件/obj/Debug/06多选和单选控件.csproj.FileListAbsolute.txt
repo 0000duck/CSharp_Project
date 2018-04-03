@@ -1,0 +1,7 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\bin\Debug\06多选和单选控件.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\bin\Debug\06多选和单选控件.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\obj\Debug\_06多选和单选控件.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\obj\Debug\_06多选和单选控件.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\obj\Debug\06多选和单选控件.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\obj\Debug\06多选和单选控件.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\06多选和单选控件\obj\Debug\06多选和单选控件.pdb

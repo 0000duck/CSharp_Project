@@ -1,0 +1,13 @@
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\bin\Debug\连连看棋盘.exe
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\bin\Debug\连连看棋盘.pdb
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘.g.resources
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘.exe
+E:\visual studio 2015\Projects\2016-09-15\连连看棋盘\连连看棋盘\obj\Debug\连连看棋盘.pdb

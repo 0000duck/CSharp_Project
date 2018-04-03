@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\bin\Debug\03、浏览器控件.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\bin\Debug\03、浏览器控件.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\obj\Debug\03、浏览器控件.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\obj\Debug\_03_浏览器控件.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\obj\Debug\_03_浏览器控件.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\obj\Debug\03、浏览器控件.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\obj\Debug\03、浏览器控件.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\03、浏览器控件\obj\Debug\03、浏览器控件.pdb

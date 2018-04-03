@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_3银行账户管理系统", "4_3银行账户管理系统.csproj", "{F9CA0451-53F1-494F-88E1-430FB230A301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "腾讯微博", "..\..\2016-09-16\腾讯微博\腾讯微博\腾讯微博.csproj", "{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CA0451-53F1-494F-88E1-430FB230A301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CA0451-53F1-494F-88E1-430FB230A301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CA0451-53F1-494F-88E1-430FB230A301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CA0451-53F1-494F-88E1-430FB230A301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

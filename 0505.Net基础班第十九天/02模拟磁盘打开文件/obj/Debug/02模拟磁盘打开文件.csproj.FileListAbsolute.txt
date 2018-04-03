@@ -1,0 +1,6 @@
+E:\visual studio 2015\Projects\0505.NET基础班第十九天\02模拟磁盘打开文件\bin\Debug\02模拟磁盘打开文件.exe.config
+E:\visual studio 2015\Projects\0505.NET基础班第十九天\02模拟磁盘打开文件\bin\Debug\02模拟磁盘打开文件.exe
+E:\visual studio 2015\Projects\0505.NET基础班第十九天\02模拟磁盘打开文件\bin\Debug\02模拟磁盘打开文件.pdb
+E:\visual studio 2015\Projects\0505.NET基础班第十九天\02模拟磁盘打开文件\obj\Debug\02模拟磁盘打开文件.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.NET基础班第十九天\02模拟磁盘打开文件\obj\Debug\02模拟磁盘打开文件.exe
+E:\visual studio 2015\Projects\0505.NET基础班第十九天\02模拟磁盘打开文件\obj\Debug\02模拟磁盘打开文件.pdb

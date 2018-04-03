@@ -1,0 +1,10 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\bin\Debug\使用GDI绘制验证码.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\bin\Debug\使用GDI绘制验证码.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.Form1.resources
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.csprojResolveAssemblyReference.cache
+E:\VS_Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.exe
+E:\VS_Projects\0505.NET基础第十七天\使用GDI绘制验证码\obj\Debug\使用GDI绘制验证码.pdb

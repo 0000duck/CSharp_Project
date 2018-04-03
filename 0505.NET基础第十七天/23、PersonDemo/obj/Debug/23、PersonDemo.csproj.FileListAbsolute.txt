@@ -1,0 +1,6 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\23、PersonDemo\bin\Debug\23、PersonDemo.exe.config
+E:\visual studio 2015\Projects\0505.NET基础第十七天\23、PersonDemo\bin\Debug\23、PersonDemo.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\23、PersonDemo\bin\Debug\23、PersonDemo.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\23、PersonDemo\obj\Debug\23、PersonDemo.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.NET基础第十七天\23、PersonDemo\obj\Debug\23、PersonDemo.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\23、PersonDemo\obj\Debug\23、PersonDemo.pdb

@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\bin\Debug\Test1_2.exe
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\bin\Debug\Test1_2.pdb
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\obj\Debug\Test1_2.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\obj\Debug\Test1_2.Properties.Resources.resources
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\obj\Debug\Test1_2.Test1_2.resources
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\obj\Debug\Test1_2.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\obj\Debug\Test1_2.exe
+E:\visual studio 2015\Projects\课本\Test1_2\Test1_2\obj\Debug\Test1_2.pdb

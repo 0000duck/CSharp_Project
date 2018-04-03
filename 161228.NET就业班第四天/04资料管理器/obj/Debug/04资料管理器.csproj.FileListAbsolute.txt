@@ -1,0 +1,9 @@
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\bin\Debug\04资料管理器.exe.config
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\bin\Debug\04资料管理器.exe
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\bin\Debug\04资料管理器.pdb
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\obj\Debug\04资料管理器.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\obj\Debug\_04资料管理器.Form1.resources
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\obj\Debug\_04资料管理器.Properties.Resources.resources
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\obj\Debug\04资料管理器.csproj.GenerateResource.Cache
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\obj\Debug\04资料管理器.exe
+E:\VS_Projects\161228.NET就业班第四天\04资料管理器\obj\Debug\04资料管理器.pdb

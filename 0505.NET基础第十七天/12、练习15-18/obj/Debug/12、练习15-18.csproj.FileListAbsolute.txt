@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\12、练习15-18\bin\Debug\12、练习15-18.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\12、练习15-18\bin\Debug\12、练习15-18.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\12、练习15-18\obj\Debug\12、练习15-18.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\12、练习15-18\obj\Debug\12、练习15-18.pdb

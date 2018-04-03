@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-23\10变量的交换\bin\Debug\10变量的交换.exe
+E:\visual studio 2015\Projects\2016-09-23\10变量的交换\bin\Debug\10变量的交换.pdb
+E:\visual studio 2015\Projects\2016-09-23\10变量的交换\obj\Debug\10变量的交换.exe
+E:\visual studio 2015\Projects\2016-09-23\10变量的交换\obj\Debug\10变量的交换.pdb
+E:\visual studio 2015\Projects\2016-09-23\10变量的交换\obj\Debug\10变量的交换.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\bin\Debug\01复习.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\bin\Debug\01复习.pdb
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\obj\Debug\01复习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\obj\Debug\_01复习.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\obj\Debug\_01复习.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\obj\Debug\01复习.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\obj\Debug\01复习.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\01复习\obj\Debug\01复习.pdb

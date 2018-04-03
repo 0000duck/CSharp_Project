@@ -1,0 +1,14 @@
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\VS_Projects\传智播客第三季wpf\基础\基本控件的使用\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb

@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\13简繁转换\bin\Debug\13简繁转换.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\13简繁转换\bin\Debug\13简繁转换.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\13简繁转换\obj\Debug\13简繁转换.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\13简繁转换\obj\Debug\13简繁转换.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\13简繁转换\obj\Debug\13简繁转换.pdb

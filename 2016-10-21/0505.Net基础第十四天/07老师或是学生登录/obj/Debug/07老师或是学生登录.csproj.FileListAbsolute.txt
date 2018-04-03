@@ -1,0 +1,7 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\bin\Debug\07老师或是学生登录.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\bin\Debug\07老师或是学生登录.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\obj\Debug\_07老师或是学生登录.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\obj\Debug\_07老师或是学生登录.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\obj\Debug\07老师或是学生登录.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\obj\Debug\07老师或是学生登录.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\07老师或是学生登录\obj\Debug\07老师或是学生登录.pdb

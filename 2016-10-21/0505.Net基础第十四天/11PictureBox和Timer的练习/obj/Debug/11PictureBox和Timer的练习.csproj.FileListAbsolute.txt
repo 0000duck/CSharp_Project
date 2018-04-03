@@ -1,0 +1,15 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\bin\Debug\11PictureBox和Timer的练习.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\bin\Debug\11PictureBox和Timer的练习.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\_11PictureBox和Timer的练习.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\_11PictureBox和Timer的练习.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.exe
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\bin\Debug\11PictureBox和Timer的练习.exe
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\bin\Debug\11PictureBox和Timer的练习.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\_11PictureBox和Timer的练习.Form1.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\_11PictureBox和Timer的练习.Properties.Resources.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.csproj.GenerateResource.Cache
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\11PictureBox和Timer的练习\obj\Debug\11PictureBox和Timer的练习.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\08、StringLenth\bin\Debug\08、StringLenth.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\08、StringLenth\bin\Debug\08、StringLenth.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\08、StringLenth\obj\Debug\08、StringLenth.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\08、StringLenth\obj\Debug\08、StringLenth.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\08、StringLenth\obj\Debug\08、StringLenth.csprojResolveAssemblyReference.cache

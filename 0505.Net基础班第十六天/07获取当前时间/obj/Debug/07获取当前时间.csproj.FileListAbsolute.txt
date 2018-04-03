@@ -1,0 +1,7 @@
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\bin\Debug\07获取当前时间.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\bin\Debug\07获取当前时间.pdb
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\obj\Debug\_07获取当前时间.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\obj\Debug\_07获取当前时间.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\obj\Debug\07获取当前时间.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\obj\Debug\07获取当前时间.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\07获取当前时间\obj\Debug\07获取当前时间.pdb

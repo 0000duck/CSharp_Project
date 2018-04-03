@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\13抽象类练习\bin\Debug\13抽象类练习.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\13抽象类练习\bin\Debug\13抽象类练习.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\13抽象类练习\obj\Debug\13抽象类练习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\13抽象类练习\obj\Debug\13抽象类练习.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\13抽象类练习\obj\Debug\13抽象类练习.pdb

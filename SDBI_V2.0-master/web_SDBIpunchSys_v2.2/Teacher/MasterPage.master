@@ -1,0 +1,150 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="Admin_MasterPage" %>
+
+<!doctype html>
+<html lang="en">
+    
+<head>
+	<meta charset="utf-8"/>
+	<title>山东商务职业学院学生考勤系统</title>
+	
+	<link rel="stylesheet" href="../Style/layout.css" type="text/css" media="screen" />
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script src="../Script/jquery-1.5.2.min.js" type="text/javascript"></script>
+	<script src="../Script/hideshow.js" type="text/javascript"></script>
+	<script src="../Script/jquery.tablesorter.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="../Script/jquery.equalHeight.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() 
+    	{ 
+      	  $(".tablesorter").tablesorter(); 
+   	 } 
+	);
+	$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+    </script>
+    <script type="text/javascript">
+    $(function(){
+        $('.column').equalHeight();
+    });
+</script>
+<script>
+    function changeColor(_this) {
+        switch (_this.value) {
+            case 'RadioButton1':                
+                _this.parentNode.parentNode.style.backgroundColor = "#FFA07A";
+                break;
+            case 'RadioButton2':
+                _this.parentNode.parentNode.style.backgroundColor = "#EECFA1";
+                break;
+            case 'RadioButton3':
+                _this.parentNode.parentNode.style.backgroundColor = "#EECFA1";
+                break;
+            case 'RadioButton4':
+                _this.parentNode.parentNode.style.backgroundColor = "#EE6A50";
+                break;
+            case 'RadioButton5':
+                var Index = _this.parentNode.parentNode.rowIndex;
+                
+                if (Index % 2 == 0) {                    
+                    _this.parentNode.parentNode.style.backgroundColor = "White";
+                }
+                else {
+                    _this.parentNode.parentNode.style.backgroundColor = "#E3EAEB";
+                }
+                break;
+        }
+    }
+</script>
+</head>
+
+
+<body>
+    <form id="form2" runat="server">
+	<header id="header">
+		<hgroup>
+			<h1 class="site_title"><a href="index.html">LOGO</a></h1>
+			<h2 class="section_title">考勤管理系统</h2><div class="btn_view_site"><a href="../Index/login.aspx">退出</a></div>
+		</hgroup>
+	</header>	
+	<section id="secondary_bar">
+		<div class="user">
+			<p>
+                <asp:Label ID="Label2" runat="server" Text="权限"></asp:Label>:&nbsp;
+                <asp:Label ID="Label1" runat="server" Text="姓名"></asp:Label>
+                (<asp:HyperLink ID="HyperLink1" runat="server" Text="N条消息" ForeColor="#6699FF" NavigateUrl="~/Teacher/showMasage.aspx"></asp:HyperLink>)
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:Label ID="Label3" runat="server" Text="当前第N周"></asp:Label>
+			</p>			
+		</div>
+	</section>
+	
+	<aside id="sidebar" class="column">
+		
+		<hr/>
+		<h3>个人信息</h3>
+		<ul class="toggle">			
+			<li class="icn_tags"><a href="../Admin/changePassWord.aspx">修改密码</a></li>
+            <li class="icn_tags"><a href="../Teacher/showMasage.aspx">未读消息</a></li>
+            <li class="icn_tags"><a href="../Teacher/pastMessage.aspx">历史消息</a></li>
+		</ul>
+		<h3>考勤分析</h3>
+		<ul class="toggle">
+			<li class="icn_tags"><a href="../Teacher/ContentPage.aspx">录入考勤</a></li>
+		</ul>
+        
+		
+		<footer>
+			<hr />
+			<p><strong>Copyright &copy; 2017 15物联网班</strong></p>
+			
+		</footer>
+	</aside>
+	
+	<section id="main" class="column">
+		
+		<article class="module width_3_quarter">
+		<header><h3 class="tabs_involved">
+            &nbsp;
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+            </h3>
+		    
+		</header>
+
+		 <div>
+                <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+             </div>
+		
+		</article>	
+		<div class="clear"></div>
+	  <div class="spacer"></div>
+	</section>
+
+</form>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\bin\Debug\03TestBox.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\bin\Debug\03TestBox.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\obj\Debug\03TextBox.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\obj\Debug\_03TestBox.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\obj\Debug\_03TestBox.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\obj\Debug\03TextBox.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\obj\Debug\03TestBox.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\03TestBox\obj\Debug\03TestBox.pdb

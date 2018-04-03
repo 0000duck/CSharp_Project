@@ -1,0 +1,15 @@
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\bin\Debug\ToolBar.exe
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\bin\Debug\ToolBar.pdb
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar.g.resources
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar.exe
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\ToolBar.pdb
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\AboutWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-17\ToolBar\obj\Debug\AboutWindow.baml

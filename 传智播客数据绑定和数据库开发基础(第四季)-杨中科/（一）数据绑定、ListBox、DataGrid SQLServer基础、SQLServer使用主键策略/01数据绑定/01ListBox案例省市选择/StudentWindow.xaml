@@ -1,0 +1,14 @@
+﻿<Window x:Class="_01ListBox案例省市选择.StudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01ListBox案例省市选择"
+        mc:Ignorable="d"
+        Title="StudentWindow" Height="180" Width="350" Loaded="Window_Loaded">
+    <Grid>
+        <ListBox DisplayMemberPath="Name  " x:Name="lbStudent"  HorizontalAlignment="Left" Height="100" Margin="10,27,0,0" VerticalAlignment="Top" Width="150" SelectionChanged="lbStudent_SelectionChanged"/>
+        <ListBox  x:Name="lbStudent_Information"  HorizontalAlignment="Left" Height="100" Margin="174,27,0,0" VerticalAlignment="Top" Width="150" SelectionChanged="lbStudent_SelectionChanged"/>
+
+    </Grid>
+</Window>

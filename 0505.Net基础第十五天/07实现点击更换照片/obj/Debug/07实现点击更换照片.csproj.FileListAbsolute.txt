@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\bin\Debug\07实现点击更换照片.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\bin\Debug\07实现点击更换照片.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\obj\Debug\_07实现点击更换照片.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\obj\Debug\_07实现点击更换照片.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\obj\Debug\07实现点击更换照片.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\obj\Debug\07实现点击更换照片.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\obj\Debug\07实现点击更换照片.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\07实现点击更换照片\obj\Debug\07实现点击更换照片.csprojResolveAssemblyReference.cache

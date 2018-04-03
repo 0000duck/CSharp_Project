@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\02、Directory\bin\Debug\02、Directory.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\02、Directory\bin\Debug\02、Directory.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\02、Directory\obj\Debug\02、Directory.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\02、Directory\obj\Debug\02、Directory.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\02、Directory\obj\Debug\02、Directory.csprojResolveAssemblyReference.cache

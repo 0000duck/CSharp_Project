@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication7", "WpfApplication7\WpfApplication7.csproj", "{09A0FF3C-4446-43E4-8331-95AF971BBDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication布局", "..\..\2016-09-15\WpfApplication布局\WpfApplication布局.csproj", "{0DD6F767-BFAA-4757-AF60-EC94B6410AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登录", "..\..\2016-09-15\登录\登录.csproj", "{E1BB8F26-9F3C-4E19-9526-318BAB19E0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "腾讯微博", "..\..\2016-09-16\腾讯微博\腾讯微博\腾讯微博.csproj", "{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication6", "..\..\2016-09-13\WpfApplication6\WpfApplication6\WpfApplication6.csproj", "{2816F927-2262-401E-A171-1257555F350B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A0FF3C-4446-43E4-8331-95AF971BBDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A0FF3C-4446-43E4-8331-95AF971BBDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A0FF3C-4446-43E4-8331-95AF971BBDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A0FF3C-4446-43E4-8331-95AF971BBDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD6F767-BFAA-4757-AF60-EC94B6410AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD6F767-BFAA-4757-AF60-EC94B6410AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD6F767-BFAA-4757-AF60-EC94B6410AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD6F767-BFAA-4757-AF60-EC94B6410AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BB8F26-9F3C-4E19-9526-318BAB19E0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BB8F26-9F3C-4E19-9526-318BAB19E0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BB8F26-9F3C-4E19-9526-318BAB19E0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BB8F26-9F3C-4E19-9526-318BAB19E0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4EA32B-EE09-4132-889E-A6D7E39D8B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2816F927-2262-401E-A171-1257555F350B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2816F927-2262-401E-A171-1257555F350B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2816F927-2262-401E-A171-1257555F350B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2816F927-2262-401E-A171-1257555F350B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

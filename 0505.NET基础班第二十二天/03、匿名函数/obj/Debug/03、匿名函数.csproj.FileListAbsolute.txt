@@ -1,0 +1,6 @@
+E:\VS_Projects\0505.NET基础班第二十二天\03、匿名函数\bin\Debug\03、匿名函数.exe.config
+E:\VS_Projects\0505.NET基础班第二十二天\03、匿名函数\bin\Debug\03、匿名函数.exe
+E:\VS_Projects\0505.NET基础班第二十二天\03、匿名函数\bin\Debug\03、匿名函数.pdb
+E:\VS_Projects\0505.NET基础班第二十二天\03、匿名函数\obj\Debug\03、匿名函数.csprojResolveAssemblyReference.cache
+E:\VS_Projects\0505.NET基础班第二十二天\03、匿名函数\obj\Debug\03、匿名函数.exe
+E:\VS_Projects\0505.NET基础班第二十二天\03、匿名函数\obj\Debug\03、匿名函数.pdb

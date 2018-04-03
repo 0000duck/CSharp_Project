@@ -1,0 +1,6 @@
+E:\VS_Projects\161215.NET就业班第一天\17计算图形的面积和周长\bin\Debug\17计算图形的面积和周长.exe.config
+E:\VS_Projects\161215.NET就业班第一天\17计算图形的面积和周长\bin\Debug\17计算图形的面积和周长.exe
+E:\VS_Projects\161215.NET就业班第一天\17计算图形的面积和周长\bin\Debug\17计算图形的面积和周长.pdb
+E:\VS_Projects\161215.NET就业班第一天\17计算图形的面积和周长\obj\Debug\17计算图形的面积和周长.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161215.NET就业班第一天\17计算图形的面积和周长\obj\Debug\17计算图形的面积和周长.exe
+E:\VS_Projects\161215.NET就业班第一天\17计算图形的面积和周长\obj\Debug\17计算图形的面积和周长.pdb

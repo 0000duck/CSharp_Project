@@ -1,0 +1,9 @@
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\bin\Debug\08单例模式.exe.config
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\bin\Debug\08单例模式.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\bin\Debug\08单例模式.pdb
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\obj\Debug\08单例模式.csprojResolveAssemblyReference.cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\obj\Debug\_08单例模式.Form1.resources
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\obj\Debug\_08单例模式.Properties.Resources.resources
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\obj\Debug\08单例模式.csproj.GenerateResource.Cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\obj\Debug\08单例模式.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\08单例模式\obj\Debug\08单例模式.pdb

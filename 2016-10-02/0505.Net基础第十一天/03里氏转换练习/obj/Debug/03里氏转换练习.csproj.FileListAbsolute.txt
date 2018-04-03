@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\03里氏转换练习\bin\Debug\03里氏转换练习.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\03里氏转换练习\bin\Debug\03里氏转换练习.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\03里氏转换练习\obj\Debug\03里氏转换练习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\03里氏转换练习\obj\Debug\03里氏转换练习.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十一天\03里氏转换练习\obj\Debug\03里氏转换练习.pdb

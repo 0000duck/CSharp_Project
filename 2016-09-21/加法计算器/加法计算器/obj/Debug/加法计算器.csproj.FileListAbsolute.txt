@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\bin\Debug\加法计算器.exe
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\bin\Debug\加法计算器.pdb
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\obj\Debug\加法计算器.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\obj\Debug\加法计算器.Form1.resources
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\obj\Debug\加法计算器.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\obj\Debug\加法计算器.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\obj\Debug\加法计算器.exe
+E:\visual studio 2015\Projects\2016-09-21\加法计算器\加法计算器\obj\Debug\加法计算器.pdb

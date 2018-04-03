@@ -1,0 +1,6 @@
+E:\VS_Projects\161228.NET就业班第四天\05方法的地柜\bin\Debug\05方法的地柜.exe.config
+E:\VS_Projects\161228.NET就业班第四天\05方法的地柜\bin\Debug\05方法的地柜.exe
+E:\VS_Projects\161228.NET就业班第四天\05方法的地柜\bin\Debug\05方法的地柜.pdb
+E:\VS_Projects\161228.NET就业班第四天\05方法的地柜\obj\Debug\05方法的递归.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161228.NET就业班第四天\05方法的地柜\obj\Debug\05方法的地柜.exe
+E:\VS_Projects\161228.NET就业班第四天\05方法的地柜\obj\Debug\05方法的地柜.pdb

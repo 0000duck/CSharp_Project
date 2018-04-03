@@ -1,0 +1,9 @@
+F:\C#\项目\信息员与艺术设计系信息管理系统\01、为什么使用委托\bin\Debug\01、为什么使用委托.exe.config
+F:\C#\项目\信息员与艺术设计系信息管理系统\01、为什么使用委托\bin\Debug\01、为什么使用委托.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\01、为什么使用委托\bin\Debug\01、为什么使用委托.pdb
+F:\C#\项目\信息员与艺术设计系信息管理系统\01、为什么使用委托\obj\Debug\01、为什么使用委托.csprojResolveAssemblyReference.cache
+F:\C#\项目\信息员与艺术设计系信息管理系统\01、为什么使用委托\obj\Debug\01、为什么使用委托.exe
+F:\C#\项目\信息员与艺术设计系信息管理系统\01、为什么使用委托\obj\Debug\01、为什么使用委托.pdb
+E:\VS_Projects\0505.NET基础班第二十二天\01、为什么使用委托\bin\Debug\01、为什么使用委托.exe.config
+E:\VS_Projects\0505.NET基础班第二十二天\01、为什么使用委托\obj\Debug\01、为什么使用委托.exe
+E:\VS_Projects\0505.NET基础班第二十二天\01、为什么使用委托\obj\Debug\01、为什么使用委托.pdb

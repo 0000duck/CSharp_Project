@@ -1,0 +1,6 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\01、Directory\bin\Debug\01、Directory.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\01、Directory\bin\Debug\01、Directory.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\01、Directory\obj\Debug\_01_Directory.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\01、Directory\obj\Debug\01、Directory.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\01、Directory\obj\Debug\01、Directory.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\01、Directory\obj\Debug\01、Directory.pdb

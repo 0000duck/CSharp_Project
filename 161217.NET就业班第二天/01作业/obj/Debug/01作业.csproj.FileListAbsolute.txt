@@ -1,0 +1,6 @@
+E:\VS_Projects\161217.NET就业班第二天\01作业\bin\Debug\01作业.exe.config
+E:\VS_Projects\161217.NET就业班第二天\01作业\obj\Debug\01作业.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161217.NET就业班第二天\01作业\bin\Debug\01作业.exe
+E:\VS_Projects\161217.NET就业班第二天\01作业\bin\Debug\01作业.pdb
+E:\VS_Projects\161217.NET就业班第二天\01作业\obj\Debug\01作业.exe
+E:\VS_Projects\161217.NET就业班第二天\01作业\obj\Debug\01作业.pdb

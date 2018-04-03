@@ -1,0 +1,6 @@
+E:\VS_Projects\161215.NET就业班第一天\09移动存储设备\bin\Debug\09移动存储设备.exe.config
+E:\VS_Projects\161215.NET就业班第一天\09移动存储设备\bin\Debug\09移动存储设备.exe
+E:\VS_Projects\161215.NET就业班第一天\09移动存储设备\bin\Debug\09移动存储设备.pdb
+E:\VS_Projects\161215.NET就业班第一天\09移动存储设备\obj\Debug\09移动存储设备.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161215.NET就业班第一天\09移动存储设备\obj\Debug\09移动存储设备.exe
+E:\VS_Projects\161215.NET就业班第一天\09移动存储设备\obj\Debug\09移动存储设备.pdb

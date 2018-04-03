@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\05泛型集合的练习\bin\Debug\05泛型集合的练习.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\05泛型集合的练习\bin\Debug\05泛型集合的练习.pdb
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\05泛型集合的练习\obj\Debug\05泛型集合的练习.exe
+E:\visual studio 2015\Projects\2016-10-02\0505.Net基础第十二天\05泛型集合的练习\obj\Debug\05泛型集合的练习.pdb

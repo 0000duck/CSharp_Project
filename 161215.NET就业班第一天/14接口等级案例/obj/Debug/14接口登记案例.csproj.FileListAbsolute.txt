@@ -1,0 +1,6 @@
+E:\VS_Projects\161215.NET就业班第一天\14接口等级案例\bin\Debug\14接口等级案例.exe.config
+E:\VS_Projects\161215.NET就业班第一天\14接口等级案例\bin\Debug\14接口等级案例.exe
+E:\VS_Projects\161215.NET就业班第一天\14接口等级案例\bin\Debug\14接口等级案例.pdb
+E:\VS_Projects\161215.NET就业班第一天\14接口等级案例\obj\Debug\14接口登记案例.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161215.NET就业班第一天\14接口等级案例\obj\Debug\14接口等级案例.exe
+E:\VS_Projects\161215.NET就业班第一天\14接口等级案例\obj\Debug\14接口等级案例.pdb

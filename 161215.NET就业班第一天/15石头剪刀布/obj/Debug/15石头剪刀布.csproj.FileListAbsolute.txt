@@ -1,0 +1,14 @@
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\bin\Debug\15石头剪刀布.exe.config
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\bin\Debug\15石头剪刀布.exe
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\bin\Debug\15石头剪刀布.pdb
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\MainWindow.g.cs
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\App.g.cs
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布_MarkupCompile.cache
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布_MarkupCompile.lref
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\MainWindow.baml
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布.g.resources
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\_15石头剪刀布.Properties.Resources.resources
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布.csproj.GenerateResource.Cache
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布.exe
+E:\VS_Projects\161215.NET就业班第一天\15石头剪刀布\obj\Debug\15石头剪刀布.pdb

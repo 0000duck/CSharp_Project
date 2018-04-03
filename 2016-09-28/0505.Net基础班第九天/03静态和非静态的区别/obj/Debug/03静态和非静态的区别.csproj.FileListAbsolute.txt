@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\03静态和非静态的区别\bin\Debug\03静态和非静态的区别.exe
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\03静态和非静态的区别\bin\Debug\03静态和非静态的区别.pdb
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\03静态和非静态的区别\obj\Debug\03静态和非静态的区别.exe
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\03静态和非静态的区别\obj\Debug\03静态和非静态的区别.pdb
+E:\visual studio 2015\Projects\2016-09-28\0505.Net基础班第九天\03静态和非静态的区别\obj\Debug\03静态和非静态的区别.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03类型装换", "03类型装换\03类型装换.csproj", "{CFDDD711-B8C9-420C-AD1C-ACA392DF9C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert类型转换", "Convert类型转换\Convert类型转换.csproj", "{6091E965-B548-4EEC-882C-C9B32D6B7F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_练习", "13_练习\13_练习.csproj", "{23D7A487-B20E-40C7-980A-FEE8FE4383EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDDD711-B8C9-420C-AD1C-ACA392DF9C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDD711-B8C9-420C-AD1C-ACA392DF9C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDD711-B8C9-420C-AD1C-ACA392DF9C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDD711-B8C9-420C-AD1C-ACA392DF9C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6091E965-B548-4EEC-882C-C9B32D6B7F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6091E965-B548-4EEC-882C-C9B32D6B7F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6091E965-B548-4EEC-882C-C9B32D6B7F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6091E965-B548-4EEC-882C-C9B32D6B7F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D7A487-B20E-40C7-980A-FEE8FE4383EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D7A487-B20E-40C7-980A-FEE8FE4383EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D7A487-B20E-40C7-980A-FEE8FE4383EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D7A487-B20E-40C7-980A-FEE8FE4383EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

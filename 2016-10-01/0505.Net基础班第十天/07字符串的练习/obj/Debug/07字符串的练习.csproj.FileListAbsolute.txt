@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\07字符串的练习\bin\Debug\07字符串的练习.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\07字符串的练习\bin\Debug\07字符串的练习.pdb
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\07字符串的练习\obj\Debug\07字符串的练习.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\07字符串的练习\obj\Debug\07字符串的练习.pdb

@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\05序列化和反序列化\bin\Debug\05序列化和反序列化.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\05序列化和反序列化\bin\Debug\05序列化和反序列化.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\05序列化和反序列化\obj\Debug\05序列化和反序列化.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\05序列化和反序列化\obj\Debug\05序列化和反序列化.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\05序列化和反序列化\obj\Debug\05序列化和反序列化.pdb

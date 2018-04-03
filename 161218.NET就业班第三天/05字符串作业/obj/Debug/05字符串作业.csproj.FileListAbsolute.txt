@@ -1,0 +1,6 @@
+E:\VS_Projects\161218.Net就业班第三天\05字符串作业\bin\Debug\05字符串作业.exe.config
+E:\VS_Projects\161218.Net就业班第三天\05字符串作业\bin\Debug\05字符串作业.exe
+E:\VS_Projects\161218.Net就业班第三天\05字符串作业\bin\Debug\05字符串作业.pdb
+E:\VS_Projects\161218.Net就业班第三天\05字符串作业\obj\Debug\05字符串作业.csprojResolveAssemblyReference.cache
+E:\VS_Projects\161218.Net就业班第三天\05字符串作业\obj\Debug\05字符串作业.exe
+E:\VS_Projects\161218.Net就业班第三天\05字符串作业\obj\Debug\05字符串作业.pdb

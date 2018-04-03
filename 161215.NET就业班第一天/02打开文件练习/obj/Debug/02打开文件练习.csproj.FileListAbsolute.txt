@@ -1,0 +1,6 @@
+E:\VS_Projects\161215.NET就业班第一天\02打开文件练习\bin\Debug\02打开文件练习.exe.config
+E:\VS_Projects\161215.NET就业班第一天\02打开文件练习\bin\Debug\02打开文件练习.exe
+E:\VS_Projects\161215.NET就业班第一天\02打开文件练习\bin\Debug\02打开文件练习.pdb
+E:\VS_Projects\161215.NET就业班第一天\02打开文件练习\obj\Debug\02打开文件练习.exe
+E:\VS_Projects\161215.NET就业班第一天\02打开文件练习\obj\Debug\02打开文件练习.pdb
+E:\VS_Projects\161215.NET就业班第一天\02打开文件练习\obj\Debug\02打开文件练习.csprojResolveAssemblyReference.cache

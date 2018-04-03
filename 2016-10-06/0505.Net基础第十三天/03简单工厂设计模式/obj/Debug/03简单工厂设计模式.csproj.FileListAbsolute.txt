@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\03简单工厂设计模式\bin\Debug\03简单工厂设计模式.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\03简单工厂设计模式\bin\Debug\03简单工厂设计模式.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\03简单工厂设计模式\obj\Debug\03简单工厂设计模式.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\21、SaveStuMes\bin\Debug\21、SaveStuMes.exe.config
+E:\visual studio 2015\Projects\0505.NET基础第十七天\21、SaveStuMes\bin\Debug\21、SaveStuMes.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\21、SaveStuMes\bin\Debug\21、SaveStuMes.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\21、SaveStuMes\obj\Debug\21、SaveStuMes.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.NET基础第十七天\21、SaveStuMes\obj\Debug\21、SaveStuMes.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\21、SaveStuMes\obj\Debug\21、SaveStuMes.pdb

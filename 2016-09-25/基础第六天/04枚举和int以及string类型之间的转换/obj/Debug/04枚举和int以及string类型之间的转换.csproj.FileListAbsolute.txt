@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\04枚举和int以及string类型之间的转换\bin\Debug\04枚举和int以及string类型之间的转换.exe
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\04枚举和int以及string类型之间的转换\bin\Debug\04枚举和int以及string类型之间的转换.pdb
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\04枚举和int以及string类型之间的转换\obj\Debug\04枚举和int以及string类型之间的转换.exe
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\04枚举和int以及string类型之间的转换\obj\Debug\04枚举和int以及string类型之间的转换.pdb
+E:\visual studio 2015\Projects\2016-09-25\基础第六天\04枚举和int以及string类型之间的转换\obj\Debug\04枚举和int以及string类型之间的转换.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\bin\Debug\Do You Love Me_.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\bin\Debug\Do You Love Me_.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do_You_Love_Me_.Form1.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do_You_Love_Me_.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.exe
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.pdb
+E:\visual studio 2015\Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.csprojResolveAssemblyReference.cache
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.exe
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\bin\Debug\Do You Love Me_.exe
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\bin\Debug\Do You Love Me_.pdb
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.csprojResolveAssemblyReference.cache
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do_You_Love_Me_.Form1.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do_You_Love_Me_.Properties.Resources.resources
+E:\VS_Projects\2016-10-21\0505.Net基础第十四天\Do You Love Me_\obj\Debug\Do You Love Me_.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\bin\Debug\05Server.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\bin\Debug\05Server.pdb
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\obj\Debug\_05Server.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\obj\Debug\_05Server.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\obj\Debug\05Server.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\obj\Debug\05Server.exe
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\obj\Debug\05Server.pdb
+E:\visual studio 2015\Projects\0505.Net基础班第十六天\05Server\obj\Debug\05Server.csprojResolveAssemblyReference.cache
+E:\VS_Projects\0505.Net基础班第十六天\05Server\obj\Debug\05Server.exe
+E:\VS_Projects\0505.Net基础班第十六天\05Server\obj\Debug\05Server.pdb

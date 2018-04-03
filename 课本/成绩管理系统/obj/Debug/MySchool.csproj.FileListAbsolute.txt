@@ -1,0 +1,36 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\成绩管理系统.Login.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\MySchool.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\bin\Debug\MySchool.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\bin\Debug\MySchool.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\MySchool.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\MySchool.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\MySchool.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\成绩管理系统\obj\Debug\MySchool.AboutForm.resources
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.exe
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.pdb
+E:\visual studio 2015\Projects\课本\成绩管理系统\bin\Debug\MySchool.exe
+E:\visual studio 2015\Projects\课本\成绩管理系统\bin\Debug\MySchool.pdb
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.AboutForm.resources
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\成绩管理系统.Login.resources
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.Properties.Resources.resources
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.StudentMsgFrm.resources
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.CourseMsgFrm.resources
+E:\visual studio 2015\Projects\课本\成绩管理系统\obj\Debug\MySchool.MainFrm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.exe
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.pdb
+E:\VS_Projects\课本\成绩管理系统\bin\Debug\MySchool.exe
+E:\VS_Projects\课本\成绩管理系统\bin\Debug\MySchool.pdb
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.AboutForm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.CourseMsgFrm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.MainFrm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\成绩管理系统.Login.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.Properties.Resources.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.StudentMsgFrm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.csproj.GenerateResource.Cache
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.StudentFrm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.CourseFrm.resources
+E:\VS_Projects\课本\成绩管理系统\obj\Debug\MySchool.Student_Information.resources

@@ -1,0 +1,8 @@
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\bin\Debug\17Demo03.exe.config
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\bin\Debug\17Demo03.exe
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\bin\Debug\17Demo03.pdb
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\obj\Debug\_17Demo03.Form1.resources
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\obj\Debug\_17Demo03.Properties.Resources.resources
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\obj\Debug\17Demo03.csproj.GenerateResource.Cache
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\obj\Debug\17Demo03.exe
+E:\VS_Projects\161218.Net就业班第三天\17Demo03\obj\Debug\17Demo03.pdb

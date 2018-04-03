@@ -1,0 +1,8 @@
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\bin\Debug\06ListBox控件.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\bin\Debug\06ListBox控件.pdb
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\obj\Debug\06ListBox控件.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\obj\Debug\_06ListBox控件.Form1.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\obj\Debug\_06ListBox控件.Properties.Resources.resources
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\obj\Debug\06ListBox控件.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\obj\Debug\06ListBox控件.exe
+E:\visual studio 2015\Projects\0505.Net基础第十五天\06ListBox控件\obj\Debug\06ListBox控件.pdb

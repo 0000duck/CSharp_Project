@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\22、翻转字符串\bin\Debug\22、翻转字符串.exe.config
+E:\visual studio 2015\Projects\0505.NET基础第十七天\22、翻转字符串\bin\Debug\22、翻转字符串.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\22、翻转字符串\bin\Debug\22、翻转字符串.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\22、翻转字符串\obj\Debug\22、翻转字符串.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\22、翻转字符串\obj\Debug\22、翻转字符串.pdb

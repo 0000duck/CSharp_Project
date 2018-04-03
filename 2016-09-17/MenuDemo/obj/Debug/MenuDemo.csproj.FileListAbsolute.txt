@@ -1,0 +1,13 @@
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\bin\Debug\MenuDemo.exe
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\bin\Debug\MenuDemo.pdb
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo.g.resources
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo.exe
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo.pdb
+E:\visual studio 2015\Projects\2016-09-17\MenuDemo\obj\Debug\MenuDemo.csprojResolveAssemblyReference.cache

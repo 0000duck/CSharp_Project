@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\09继承练习\bin\Debug\09继承练习.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\09继承练习\bin\Debug\09继承练习.pdb
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\09继承练习\obj\Debug\09继承练习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\09继承练习\obj\Debug\09继承练习.exe
+E:\visual studio 2015\Projects\2016-10-01\0505.Net基础班第十天\09继承练习\obj\Debug\09继承练习.pdb

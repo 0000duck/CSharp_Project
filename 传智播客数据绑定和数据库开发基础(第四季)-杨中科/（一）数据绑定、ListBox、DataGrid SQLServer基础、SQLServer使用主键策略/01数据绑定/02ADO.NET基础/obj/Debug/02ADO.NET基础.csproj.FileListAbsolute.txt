@@ -1,0 +1,14 @@
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\bin\Debug\02ADO.NET基础.exe.config
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\bin\Debug\02ADO.NET基础.exe
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\bin\Debug\02ADO.NET基础.pdb
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础.csprojResolveAssemblyReference.cache
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\MainWindow.g.cs
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\App.g.cs
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础_MarkupCompile.cache
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础_MarkupCompile.lref
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\MainWindow.baml
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础.g.resources
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\_02ADO.NET基础.Properties.Resources.resources
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础.csproj.GenerateResource.Cache
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础.exe
+E:\VS_Projects\传智播客数据绑定和数据库开发基础(第四季)-杨中科\（一）数据绑定、ListBox、DataGrid SQLServer基础、SQLServer使用主键策略\01数据绑定\02ADO.NET基础\obj\Debug\02ADO.NET基础.pdb

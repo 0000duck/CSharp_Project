@@ -1,0 +1,5 @@
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\13接口练习\bin\Debug\13接口练习.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\13接口练习\bin\Debug\13接口练习.pdb
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\13接口练习\obj\Debug\13接口练习.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\13接口练习\obj\Debug\13接口练习.exe
+E:\visual studio 2015\Projects\2016-10-06\0505.Net基础第十三天\13接口练习\obj\Debug\13接口练习.pdb

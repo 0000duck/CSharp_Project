@@ -1,0 +1,10 @@
+E:\visual studio 2015\Projects\窗体传值\Test\bin\Debug\Test.exe.config
+E:\visual studio 2015\Projects\窗体传值\Test\bin\Debug\Test.exe
+E:\visual studio 2015\Projects\窗体传值\Test\bin\Debug\Test.pdb
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.Form1.resources
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.Form2.resources
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.Properties.Resources.resources
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.exe
+E:\visual studio 2015\Projects\窗体传值\Test\obj\Debug\Test.pdb

@@ -1,0 +1,47 @@
+﻿<Window x:Class="腾讯微博.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:腾讯微博"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="377.391" Width="448.913">
+    <Grid>
+        <Grid Background="#ADD8E6" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image Source="返回.png"  Width="50" Height="50"></Image>
+            <TextBlock Text="个人资料" FontSize="30" VerticalAlignment="Center" Grid.Row="0" Grid.Column="1" Foreground="#FFFBF7F7" FontWeight="Bold" Margin="35,11,0,11"/>
+            <Image Source="3.jpg" Grid.Row="1" Grid.Column="1"/>
+            <Grid Grid.Row="1" Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition Height="40"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Label Content="她已收听你" FontSize="15" Foreground="AliceBlue"  Grid.Row="1"  VerticalAlignment="Bottom" Margin="29,0,53,4" RenderTransformOrigin="0.384,1.069"/>
+                <Button  Content="立即收听" Grid.Row="2" Grid.Column="2" VerticalAlignment="Bottom" Height="30"  Background="#8470FF" Foreground="White" Margin="22,0,45,5"/>
+            </Grid>
+            <TextBlock Width="260" Height="100" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2">
+                <StackPanel Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2">
+                    <TextBlock Text="陈小冰" FontSize="20" Foreground="#8C8C8C" Margin="33,0,0,0"></TextBlock>
+                    <TextBlock Text="chengxiaobing@hotmail.com" FontSize="15" Foreground="#8C8C8C" Margin="33,0,0,0"></TextBlock>
+                    <TextBlock Text="个人介绍" FontSize="20" Foreground="#8C8C8C" Margin="33,0,0,0"></TextBlock>
+                    <TextBlock Text="还没想好写什么" FontSize="16" Foreground="#8C8C8C" Margin="33,0,0,0" ></TextBlock>               
+                    <!--<Canvas>
+                    <Polygon Points="10,50 20,60 180,60 180,150 10,150" Height="161" Canvas.Left="-33" Canvas.Top="-11" Width="213"></Polygon>
+                    </Canvas>-->
+                </StackPanel>
+            </TextBlock>
+            
+        </Grid>
+    </Grid>
+</Window>

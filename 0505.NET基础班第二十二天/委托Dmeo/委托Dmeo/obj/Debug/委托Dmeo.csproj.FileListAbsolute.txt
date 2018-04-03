@@ -1,0 +1,14 @@
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\bin\Debug\委托Dmeo.exe.config
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\bin\Debug\委托Dmeo.exe
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\bin\Debug\委托Dmeo.pdb
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo.csprojResolveAssemblyReference.cache
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\MainWindow.g.cs
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\App.g.cs
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo_MarkupCompile.cache
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo_MarkupCompile.lref
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\MainWindow.baml
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo.g.resources
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo.Properties.Resources.resources
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo.csproj.GenerateResource.Cache
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo.exe
+E:\VS_Projects\0505.NET基础班第二十二天\委托Dmeo\委托Dmeo\obj\Debug\委托Dmeo.pdb

@@ -1,0 +1,4 @@
+E:\visual studio 2015\Projects\0505.NET基础第十七天\13、BubbleSort\bin\Debug\13、BubbleSort.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\13、BubbleSort\bin\Debug\13、BubbleSort.pdb
+E:\visual studio 2015\Projects\0505.NET基础第十七天\13、BubbleSort\obj\Debug\13、BubbleSort.exe
+E:\visual studio 2015\Projects\0505.NET基础第十七天\13、BubbleSort\obj\Debug\13、BubbleSort.pdb

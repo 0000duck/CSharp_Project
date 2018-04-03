@@ -1,0 +1,13 @@
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\bin\Debug\腾讯微博.exe
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\bin\Debug\腾讯微博.pdb
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\MainWindow.g.cs
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\App.g.cs
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博_MarkupCompile.cache
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博_MarkupCompile.lref
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\MainWindow.baml
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博.g.resources
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博.Properties.Resources.resources
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博.csproj.GenerateResource.Cache
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博.exe
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博.pdb
+E:\visual studio 2015\Projects\2016-09-16\腾讯微博\腾讯微博\obj\Debug\腾讯微博.csprojResolveAssemblyReference.cache
